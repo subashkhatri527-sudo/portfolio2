@@ -8,11 +8,11 @@ PlanBot is a web platform that connects event organizers with participants. User
 
  Name           Component                  
 
- Shristi        Event Management           
- Ashraful       Registration & Attendance 
- Saurav         Feedback & Statistics      
- Deepika        Admin Dashboard            
- Subash Khatri  User Authentication        
+ Shristi    =     Event Management           
+ Ashraful    =   Registration & Attendance 
+ Saurav       =  Feedback & Statistics      
+ Deepika       = Admin Dashboard            
+ Subash Khatri  =User Authentication        
 
 
 
@@ -86,7 +86,6 @@ I used PHPUnit to test my code. I wrote 35 tests covering different data types:
 - Numeric tests - user ID
 - Boolean tests - login success and failure
 - Date tests - created date, token expiry
-- 
 
 **Result:**
 OK (35 tests, 41 assertions)
