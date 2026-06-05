@@ -2,19 +2,19 @@
 
 PlanBot is a web platform that connects event organizers with participants. Users can sign up, log in, register for events, and give feedback. Admins can manage events and view statistics.
 
----
+
 
 ## Team Members - Planbot Crew
 
-| Name          | Component                  |
-| ------------- | -------------------------- |
-| Shristi       | Event Management           |
-| Ashraful      | Registration & Attendance  |
-| Saurav        | Feedback & Statistics      |
-| Deepika       | Admin Dashboard            |
-| Subash Khatri | User Authentication        |
+ Name           Component                  
 
----
+ Shristi        Event Management           
+ Ashraful       Registration & Attendance 
+ Saurav         Feedback & Statistics      
+ Deepika        Admin Dashboard            
+ Subash Khatri  User Authentication        
+
+
 
 ## What the System Does
 
@@ -25,7 +25,6 @@ PlanBot is a web platform that connects event organizers with participants. User
 - Admins can log in separately and manage events
 - Admin can see registrations, attendance and feedback
 
----
 
 ## My Part - User Authentication
 
@@ -41,7 +40,7 @@ I worked on the user authentication part of the system. This includes:
 
 I made sure the system is secure by using sessions, checking for duplicate emails, validating passwords and protecting pages so users cannot access them without logging in.
 
----
+
 
 ## Technologies
 
@@ -52,7 +51,7 @@ I made sure the system is secure by using sessions, checking for duplicate email
 - PHPUnit for testing
 - GitHub for version control
 
----
+
 
 ## Database
 
@@ -66,7 +65,7 @@ Tables used:
 - attendance
 - feedback
 
----
+
 
 ## How to Run
 
@@ -77,7 +76,7 @@ Tables used:
 5. Start Apache and MySQL in XAMPP
 6. Go to `http://localhost/event/event/`
 
----
+
 
 ## Testing
 
@@ -90,13 +89,12 @@ I used PHPUnit to test my code. I wrote 35 tests covering different data types:
 - 
 
 **Result:**
-```
 OK (35 tests, 41 assertions)
-```
+
 
 All 35 tests passed successfully.
 
----
+
 
 ## Author
 
